@@ -1,0 +1,7 @@
+{
+  "process_names": ["claude.exe", "claude"],
+  "refresh_seconds": 60,
+  "process_check_seconds": 3,
+  "session_key": "",
+  "org_id": ""
+}
