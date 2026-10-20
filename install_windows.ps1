@@ -1,4 +1,4 @@
-# 在「啟動」資料夾建立捷徑：開機後常駐背景，偵測到 Claude 啟動就顯示使用量浮動視窗
+﻿# 在「啟動」資料夾建立捷徑：開機後常駐背景，偵測到 Claude 啟動就顯示使用量浮動視窗
 # 移除：powershell -ExecutionPolicy Bypass -File install_windows.ps1 -Uninstall
 param([switch]$Uninstall)
 
